@@ -4,7 +4,7 @@ import java.util.Map;
 
 /**
  * Created by knightliao on 16/5/28.
- * <p/>
+ *
  * 配置数据获取总控
  */
 public interface IDisconfDataGetter {
